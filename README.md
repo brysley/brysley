@@ -6,8 +6,9 @@
 Estou cursando o segundo período de Sistemas de Informação, sou apaixonada por dados e de como eles podem revelar insights ocultos. Minha jornada acadêmica é marcada pela constante exploração da tecnologia e como esses elementos moldam o nosso mundo.
 
 
-Atualmente estou estudando **Python** e mais ferramentas para melhorar minhas skills como analista de dados
-sou uma pessoa muito dinamica e que gosta de trabalhar em equipe
+Atualmente estou estudando **Python** e mais ferramentas para melhorar minhas skills como analista de dados!
+
+Sou uma pessoa muito dinamica e que gosta de trabalhar em equipe
 
 
 Links:
