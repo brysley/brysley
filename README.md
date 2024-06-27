@@ -16,9 +16,4 @@ Me encontre em:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brysley-orellana/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:brysleyr9@gmail.com)
 
-[![portfolio Badge](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLtb_cwUU0nUT4TsaKbptPEwKYFvL7j-AmOA&s)](https://chambray-fireplace-3e8.notion.site/Portf-lio-Brysley-Orellana-2b43a9b45c8b4dd980e3139d13fe4c49)
-
-<br>
-
-
 
