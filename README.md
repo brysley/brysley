@@ -11,7 +11,7 @@ Atualmente estou estudando **Python** e mais ferramentas para melhorar minhas sk
 Sou uma pessoa muito dinamica e que gosta de trabalhar em equipe
 
 
-Links:
+Me encontre em:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brysley-orellana/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:brysleyr9@gmail.com)
